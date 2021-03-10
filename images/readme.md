@@ -1,1 +1,1 @@
-# ** Extract the demo images or use your own.
+# *use demo images or use your own.
