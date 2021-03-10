@@ -1,6 +1,6 @@
 # Payroll_and_Attendance_system
 
-* By [1 Source Coder](https://1sourcecodr.blogspot.com)
+* By [Code Projects](https://code-projects.org/)
 
 > **LOGIN DETAILS** 
 
